@@ -13,24 +13,16 @@ Work published here includes:
 
 ## Areas of Focus
 
-- Web application security (OWASP Top 10, XSS, SQLi, RCE, Bypasses).
-- Network and infrastructure security assessment.
-- Exploit development and proof-of-concept validation.
+- Network and Web application security (OWASP Top 10, XSS, SQLi, RCE, Bypasses).
 - Incident detection and response.
 - Security tooling and automation.
 
 ## Background
 
-- Former engineer at Apple  
-- First-class degree in Computer Science  
+- Former engineer at Apple
 - Published security research
+- First-class degree in Computer Science 
 - Industry Certifications (eJPT, eWPT, eWPTXv2)
-
-## Certifications
-
-- eJPT (eLearnSecurity Junior Penetration Tester)  
-- eWPT (eLearnSecurity Web Application Penetration Tester)  
-- eWPTXv2 (eLearnSecurity Web Application Penetration Tester eXtreme)  
 
 ## Notes
 
