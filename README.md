@@ -1,6 +1,4 @@
-## Hi there.
-
-# Security Engineer
+## Security Engineer
 
 Security engineering focused on penetration testing, vulnerability management, and incident response.
 
