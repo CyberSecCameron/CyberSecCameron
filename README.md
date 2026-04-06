@@ -1,6 +1,7 @@
 ## Security Engineer
 
-Former Apple Security engineer focused on penetration testing, vulnerability management, and incident response. ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+Former Apple Security engineer focused on penetration testing, vulnerability management, and incident response. 
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 ## Scope
 
